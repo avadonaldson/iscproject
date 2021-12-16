@@ -34,8 +34,8 @@ public class AboutView extends VerticalLayout {
         add(new Paragraph("Project Manager:   Ava Donaldson"));
         add(new Paragraph("Systems Analyst:   Harper Rapkin"));
         add(new Paragraph("Lead Programmer:   Anna Fomina"));
-        add(new Paragraph("Graphic Artist:   Christine Shao"));
-        add(new Paragraph("Technical Writer:   Ava Donaldson"));
+        add(new Paragraph("Graphic Artist:    Christine Shao"));
+        add(new Paragraph("Technical Writer:  Ava Donaldson"));
         add(new Paragraph("Contact Information:"));
         add(new Paragraph("SkibbleHelp@Skibble.com         123-456-7890"));
 
